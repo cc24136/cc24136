@@ -57,7 +57,7 @@
 
 ## 🔭 Projects
 
-- **WIP**
+- **See2Sound:** AI-powered system for automatically generating context-aware audio descriptions for audiovisual content. [Website](https://github.com/ClarAlvez/See2Sound_Frontend) | [API](https://github.com/ClarAlvez/See2Sound_Backend) | [App](https://github.com/cc24136/See2Sound_App)
 
 ## ☀️ Currently Learning
 
